@@ -1,2 +1,2 @@
-# Rock-Papper-Scissors-Console
+# Rock-Paper-Scissors-Console
 A quick Rock-Paper-Scissors console game.
